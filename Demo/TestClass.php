@@ -1,10 +1,7 @@
 <?php
 
 require_once __DIR__ . '/../autoload.php';
-
 use AliyunExt\Test\BaseClass;
-
-
 
 class TestClass extends  BaseClass
 {
@@ -16,7 +13,7 @@ class TestClass extends  BaseClass
         'method'    => 'post',
         'params'    =>  [
         'username' => '131619029690',
-        'password' => 'llj890505',
+        'password' => 'testpwd',
             //'username' => '131619029690',
             //'password' => '13123',
             //'sign' => $this->orderSign()
