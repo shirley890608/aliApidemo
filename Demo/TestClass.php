@@ -14,9 +14,7 @@ class TestClass extends  BaseClass
         'params'    =>  [
         'username' => '131619029690',
         'password' => 'testpwd',
-            //'username' => '131619029690',
-            //'password' => '13123',
-            //'sign' => $this->orderSign()
+        //'sign' => $this->orderSign()
         ],
     ];
 
