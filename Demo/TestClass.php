@@ -12,7 +12,7 @@ class TestClass extends  BaseClass
         'path'      => '/v3/login',
         'method'    => 'post',
         'params'    =>  [
-        'username' => '131619029690',
+        'username' => '13161902969',
         'password' => 'testpwd',
         //'sign' => $this->orderSign()
         ],
