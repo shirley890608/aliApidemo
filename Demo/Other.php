@@ -13,4 +13,9 @@ class Other
     {
         //test
     }
+
+    public function getMachineStudy($inputData)
+    {
+
+    }
 }
