@@ -6,7 +6,11 @@
  * Time: 上午11:54
  */
 
-class other
+class Other
 {
 
+    public function getAliOtherApi($inputData)
+    {
+        //test
+    }
 }
