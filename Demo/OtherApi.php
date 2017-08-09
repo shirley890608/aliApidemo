@@ -6,7 +6,7 @@
  * Time: 上午11:54
  */
 
-class Other
+class OtherApi
 {
 
     public function getAliOtherApi($inputData)
@@ -16,6 +16,11 @@ class Other
 
     public function getMachineStudy($inputData)
     {
+        //machine study
+    }
 
+    public function getRecommendInfo($inputData)
+    {
+        //recommend
     }
 }
